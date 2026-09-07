@@ -20,6 +20,7 @@ DSA with java
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushraj4878/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Ayushraj4878/DSA/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushraj4878/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Ayushraj4878/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushraj4878/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushraj4878/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -61,6 +62,7 @@ DSA with java
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushraj4878/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Ayushraj4878/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushraj4878/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Ayushraj4878/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushraj4878/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -81,6 +83,7 @@ DSA with java
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushraj4878/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Ayushraj4878/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushraj4878/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -90,4 +93,8 @@ DSA with java
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ayushraj4878/DSA/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ayushraj4878/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
