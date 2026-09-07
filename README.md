@@ -58,6 +58,7 @@ DSA with java
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Ayushraj4878/DSA/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayushraj4878/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +67,8 @@ DSA with java
 |  |
 | ------- |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ayushraj4878/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Ayushraj4878/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
