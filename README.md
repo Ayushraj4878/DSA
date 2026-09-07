@@ -62,6 +62,7 @@ DSA with java
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushraj4878/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Ayushraj4878/DSA/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Ayushraj4878/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushraj4878/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Ayushraj4878/DSA/tree/master/0567-permutation-in-string) |
@@ -78,6 +79,7 @@ DSA with java
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushraj4878/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Ayushraj4878/DSA/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushraj4878/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -97,4 +99,12 @@ DSA with java
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ayushraj4878/DSA/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Ayushraj4878/DSA/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Ayushraj4878/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
