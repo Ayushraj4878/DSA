@@ -8,6 +8,7 @@ DSA with java
 | ------- |
 | [0001-two-sum](https://github.com/Ayushraj4878/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushraj4878/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushraj4878/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -116,4 +117,5 @@ DSA with java
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
