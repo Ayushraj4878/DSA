@@ -12,6 +12,7 @@ DSA with java
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushraj4878/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushraj4878/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Ayushraj4878/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushraj4878/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Ayushraj4878/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Ayushraj4878/DSA/tree/master/0904-fruit-into-baskets) |
@@ -31,6 +32,7 @@ DSA with java
 | [0219-contains-duplicate-ii](https://github.com/Ayushraj4878/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushraj4878/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Ayushraj4878/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ayushraj4878/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Ayushraj4878/DSA/tree/master/0904-fruit-into-baskets) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ayushraj4878/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -63,6 +65,7 @@ DSA with java
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ayushraj4878/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ayushraj4878/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushraj4878/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
