@@ -10,6 +10,7 @@ DSA with java
 | [0011-container-with-most-water](https://github.com/Ayushraj4878/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushraj4878/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0053-maximum-subarray) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushraj4878/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushraj4878/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -82,6 +83,7 @@ DSA with java
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayushraj4878/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushraj4878/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushraj4878/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushraj4878/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ayushraj4878/DSA/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Ayushraj4878/DSA/tree/master/0202-happy-number) |
