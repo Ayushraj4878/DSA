@@ -7,6 +7,7 @@ DSA with java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayushraj4878/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ayushraj4878/DSA/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
@@ -78,6 +79,7 @@ DSA with java
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ayushraj4878/DSA/tree/master/0011-container-with-most-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushraj4878/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ayushraj4878/DSA/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Ayushraj4878/DSA/tree/master/0202-happy-number) |
@@ -145,4 +147,8 @@ DSA with java
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ayushraj4878/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
