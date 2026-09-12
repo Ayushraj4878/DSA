@@ -10,6 +10,7 @@ DSA with java
 | [0011-container-with-most-water](https://github.com/Ayushraj4878/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayushraj4878/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Ayushraj4878/DSA/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushraj4878/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
@@ -98,6 +99,7 @@ DSA with java
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ayushraj4878/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
@@ -177,4 +179,8 @@ DSA with java
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ayushraj4878/DSA/tree/master/0187-repeated-dna-sequences) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ayushraj4878/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
