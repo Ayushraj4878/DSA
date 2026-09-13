@@ -29,6 +29,7 @@ DSA with java
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushraj4878/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ayushraj4878/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushraj4878/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/Ayushraj4878/DSA/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [3169-count-days-without-meetings](https://github.com/Ayushraj4878/DSA/tree/master/3169-count-days-without-meetings) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ DSA with java
 | ------- |
 | [0056-merge-intervals](https://github.com/Ayushraj4878/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/Ayushraj4878/DSA/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [3169-count-days-without-meetings](https://github.com/Ayushraj4878/DSA/tree/master/3169-count-days-without-meetings) |
 ## Counting
 |  |
