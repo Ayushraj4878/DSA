@@ -67,6 +67,7 @@ DSA with java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushraj4878/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Ayushraj4878/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ayushraj4878/DSA/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Ayushraj4878/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushraj4878/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -141,6 +142,7 @@ DSA with java
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayushraj4878/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Ayushraj4878/DSA/tree/master/0143-reorder-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushraj4878/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
@@ -196,4 +198,8 @@ DSA with java
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Ayushraj4878/DSA/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ayushraj4878/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
