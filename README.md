@@ -18,6 +18,7 @@ DSA with java
 | [0219-contains-duplicate-ii](https://github.com/Ayushraj4878/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Ayushraj4878/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushraj4878/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/Ayushraj4878/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushraj4878/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushraj4878/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushraj4878/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -144,6 +145,7 @@ DSA with java
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushraj4878/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Ayushraj4878/DSA/tree/master/0143-reorder-list) |
+| [0503-next-greater-element-ii](https://github.com/Ayushraj4878/DSA/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushraj4878/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -202,4 +204,8 @@ DSA with java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayushraj4878/DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Ayushraj4878/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
