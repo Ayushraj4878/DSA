@@ -23,6 +23,7 @@ DSA with java
 | [0643-maximum-average-subarray-i](https://github.com/Ayushraj4878/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushraj4878/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ayushraj4878/DSA/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Ayushraj4878/DSA/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Ayushraj4878/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayushraj4878/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -146,6 +147,7 @@ DSA with java
 | [0020-valid-parentheses](https://github.com/Ayushraj4878/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Ayushraj4878/DSA/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/Ayushraj4878/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Ayushraj4878/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushraj4878/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -208,4 +210,5 @@ DSA with java
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Ayushraj4878/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Ayushraj4878/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
