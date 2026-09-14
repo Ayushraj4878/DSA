@@ -76,6 +76,7 @@ DSA with java
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushraj4878/DSA/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushraj4878/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayushraj4878/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ayushraj4878/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Binary Search
 |  |
@@ -149,6 +150,7 @@ DSA with java
 | [0503-next-greater-element-ii](https://github.com/Ayushraj4878/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ayushraj4878/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushraj4878/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayushraj4878/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
 |  |
 | ------- |
