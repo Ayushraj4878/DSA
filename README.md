@@ -44,6 +44,7 @@ DSA with java
 | [0202-happy-number](https://github.com/Ayushraj4878/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushraj4878/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/Ayushraj4878/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushraj4878/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -73,6 +74,7 @@ DSA with java
 | [0020-valid-parentheses](https://github.com/Ayushraj4878/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Ayushraj4878/DSA/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Ayushraj4878/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0383-ransom-note](https://github.com/Ayushraj4878/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushraj4878/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -118,6 +120,7 @@ DSA with java
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ayushraj4878/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ayushraj4878/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Linked List
