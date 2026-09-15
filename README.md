@@ -52,6 +52,7 @@ DSA with java
 | [0567-permutation-in-string](https://github.com/Ayushraj4878/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Ayushraj4878/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayushraj4878/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Ayushraj4878/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ayushraj4878/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sliding Window
 |  |
@@ -80,6 +81,7 @@ DSA with java
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushraj4878/DSA/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushraj4878/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Ayushraj4878/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayushraj4878/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ayushraj4878/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Binary Search
@@ -122,6 +124,7 @@ DSA with java
 | ------- |
 | [0383-ransom-note](https://github.com/Ayushraj4878/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Ayushraj4878/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ayushraj4878/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Linked List
 |  |
