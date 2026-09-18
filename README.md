@@ -139,6 +139,7 @@ DSA with java
 | [0142-linked-list-cycle-ii](https://github.com/Ayushraj4878/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ayushraj4878/DSA/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushraj4878/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Ayushraj4878/DSA/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
