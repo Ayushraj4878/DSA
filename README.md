@@ -15,6 +15,7 @@ DSA with java
 | [0057-insert-interval](https://github.com/Ayushraj4878/DSA/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ayushraj4878/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushraj4878/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushraj4878/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Ayushraj4878/DSA/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@ DSA with java
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushraj4878/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushraj4878/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushraj4878/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Ayushraj4878/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushraj4878/DSA/tree/master/0713-subarray-product-less-than-k) |
