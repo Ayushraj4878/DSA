@@ -35,6 +35,7 @@ DSA with java
 | [0986-interval-list-intersections](https://github.com/Ayushraj4878/DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushraj4878/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ayushraj4878/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushraj4878/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushraj4878/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Ayushraj4878/DSA/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [3169-count-days-without-meetings](https://github.com/Ayushraj4878/DSA/tree/master/3169-count-days-without-meetings) |
@@ -102,6 +103,7 @@ DSA with java
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushraj4878/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayushraj4878/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushraj4878/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ayushraj4878/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Prefix Sum
 |  |
 | ------- |
