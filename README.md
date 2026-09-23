@@ -22,6 +22,7 @@ DSA with java
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushraj4878/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Ayushraj4878/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushraj4878/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Ayushraj4878/DSA/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/Ayushraj4878/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushraj4878/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -104,6 +105,7 @@ DSA with java
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushraj4878/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushraj4878/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushraj4878/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Ayushraj4878/DSA/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Ayushraj4878/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Ayushraj4878/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -141,6 +143,7 @@ DSA with java
 | ------- |
 | [0056-merge-intervals](https://github.com/Ayushraj4878/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Ayushraj4878/DSA/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [3169-count-days-without-meetings](https://github.com/Ayushraj4878/DSA/tree/master/3169-count-days-without-meetings) |
 ## Counting
@@ -267,4 +270,9 @@ DSA with java
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushraj4878/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
