@@ -20,6 +20,7 @@ DSA with java
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushraj4878/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayushraj4878/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ayushraj4878/DSA/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ayushraj4878/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushraj4878/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushraj4878/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -149,6 +150,7 @@ DSA with java
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ayushraj4878/DSA/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ayushraj4878/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Ayushraj4878/DSA/tree/master/2580-count-ways-to-group-overlapping-ranges) |
@@ -210,6 +212,7 @@ DSA with java
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ayushraj4878/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushraj4878/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ayushraj4878/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -282,5 +285,10 @@ DSA with java
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ayushraj4878/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ayushraj4878/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
