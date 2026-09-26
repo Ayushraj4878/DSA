@@ -71,6 +71,7 @@ DSA with java
 | [0560-subarray-sum-equals-k](https://github.com/Ayushraj4878/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ayushraj4878/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Ayushraj4878/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayushraj4878/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayushraj4878/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -103,6 +104,7 @@ DSA with java
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushraj4878/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushraj4878/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayushraj4878/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ayushraj4878/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -161,6 +163,7 @@ DSA with java
 | [0347-top-k-frequent-elements](https://github.com/Ayushraj4878/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushraj4878/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Ayushraj4878/DSA/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [3169-count-days-without-meetings](https://github.com/Ayushraj4878/DSA/tree/master/3169-count-days-without-meetings) |
@@ -171,6 +174,7 @@ DSA with java
 | [0383-ransom-note](https://github.com/Ayushraj4878/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayushraj4878/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ayushraj4878/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Linked List
@@ -253,6 +257,7 @@ DSA with java
 | [0011-container-with-most-water](https://github.com/Ayushraj4878/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Ayushraj4878/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Ayushraj4878/DSA/tree/master/0410-split-array-largest-sum) |
+| [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -303,6 +308,7 @@ DSA with java
 | [0347-top-k-frequent-elements](https://github.com/Ayushraj4878/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushraj4878/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
