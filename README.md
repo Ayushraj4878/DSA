@@ -29,6 +29,7 @@ DSA with java
 | [0347-top-k-frequent-elements](https://github.com/Ayushraj4878/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Ayushraj4878/DSA/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/Ayushraj4878/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Ayushraj4878/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushraj4878/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushraj4878/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -163,6 +164,7 @@ DSA with java
 | [0217-contains-duplicate](https://github.com/Ayushraj4878/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushraj4878/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Ayushraj4878/DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushraj4878/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -258,6 +260,7 @@ DSA with java
 | [0011-container-with-most-water](https://github.com/Ayushraj4878/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Ayushraj4878/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Ayushraj4878/DSA/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/Ayushraj4878/DSA/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 ## Rolling Hash
 |  |
@@ -308,6 +311,7 @@ DSA with java
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushraj4878/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushraj4878/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Ayushraj4878/DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushraj4878/DSA/tree/master/0973-k-closest-points-to-origin) |
