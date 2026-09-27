@@ -32,6 +32,7 @@ DSA with java
 | [0502-ipo](https://github.com/Ayushraj4878/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Ayushraj4878/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushraj4878/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Ayushraj4878/DSA/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushraj4878/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Ayushraj4878/DSA/tree/master/0704-binary-search) |
@@ -72,6 +73,7 @@ DSA with java
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayushraj4878/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ayushraj4878/DSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Ayushraj4878/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Ayushraj4878/DSA/tree/master/0904-fruit-into-baskets) |
@@ -165,6 +167,7 @@ DSA with java
 | [0347-top-k-frequent-elements](https://github.com/Ayushraj4878/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Ayushraj4878/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Ayushraj4878/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushraj4878/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -176,6 +179,7 @@ DSA with java
 | [0347-top-k-frequent-elements](https://github.com/Ayushraj4878/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ayushraj4878/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushraj4878/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Ayushraj4878/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayushraj4878/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -263,6 +267,7 @@ DSA with java
 | [0409-longest-palindrome](https://github.com/Ayushraj4878/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Ayushraj4878/DSA/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Ayushraj4878/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Ayushraj4878/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 ## Rolling Hash
 |  |
@@ -315,6 +320,7 @@ DSA with java
 | [0347-top-k-frequent-elements](https://github.com/Ayushraj4878/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushraj4878/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Ayushraj4878/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Ayushraj4878/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Ayushraj4878/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ayushraj4878/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushraj4878/DSA/tree/master/0973-k-closest-points-to-origin) |
