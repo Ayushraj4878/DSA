@@ -58,6 +58,7 @@ DSA with java
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushraj4878/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/Ayushraj4878/DSA/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [3169-count-days-without-meetings](https://github.com/Ayushraj4878/DSA/tree/master/3169-count-days-without-meetings) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayushraj4878/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ DSA with java
 | [0904-fruit-into-baskets](https://github.com/Ayushraj4878/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ayushraj4878/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayushraj4878/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayushraj4878/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Ayushraj4878/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sliding Window
 |  |
@@ -204,6 +206,7 @@ DSA with java
 | [0143-reorder-list](https://github.com/Ayushraj4878/DSA/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushraj4878/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Ayushraj4878/DSA/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayushraj4878/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
