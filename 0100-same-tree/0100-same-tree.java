@@ -25,8 +25,13 @@ class Solution {
         if(p.val != q.val){
             return false;
         }
-       
-        return fun(p.left , q.left) && fun(p.right , q.right);
+        boolean left = fun(p.left , q.left);
+        boolean right = fun(p.right , q.right);
+
+        if(left == true && right == true){
+        return true;
+        }
+        return false;
     }
     public boolean isSameTree(TreeNode p, TreeNode q) {
         return fun(p ,q);
