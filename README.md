@@ -414,6 +414,7 @@ DSA with java
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushraj4878/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ayushraj4878/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushraj4878/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Ayushraj4878/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -424,6 +425,7 @@ DSA with java
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushraj4878/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ayushraj4878/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushraj4878/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Ayushraj4878/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -437,6 +439,7 @@ DSA with java
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushraj4878/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ayushraj4878/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayushraj4878/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Ayushraj4878/DSA/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
