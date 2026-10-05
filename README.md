@@ -394,6 +394,7 @@ DSA with java
 | [0039-combination-sum](https://github.com/Ayushraj4878/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ayushraj4878/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ayushraj4878/DSA/tree/master/0077-combinations) |
+| [0113-path-sum-ii](https://github.com/Ayushraj4878/DSA/tree/master/0113-path-sum-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -412,6 +413,7 @@ DSA with java
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ayushraj4878/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ayushraj4878/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Ayushraj4878/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Ayushraj4878/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ayushraj4878/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayushraj4878/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushraj4878/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -429,6 +431,7 @@ DSA with java
 | [0100-same-tree](https://github.com/Ayushraj4878/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ayushraj4878/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Ayushraj4878/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Ayushraj4878/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ayushraj4878/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayushraj4878/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushraj4878/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -448,6 +451,7 @@ DSA with java
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ayushraj4878/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ayushraj4878/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Ayushraj4878/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Ayushraj4878/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ayushraj4878/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayushraj4878/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushraj4878/DSA/tree/master/0145-binary-tree-postorder-traversal) |
